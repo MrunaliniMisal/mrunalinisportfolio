@@ -132,7 +132,7 @@ body {
 	  padding-right: 200px;*/
 	padding-top: 12px;
 	 font-size: 35px;
-	 margin-left: 30px;
+	 margin-left: 25px;
   }
  #list{
 	display: inline-block;
@@ -154,7 +154,7 @@ color: #FFFFFF;
 }
 /*abt*/
 .abtsection {
-    height: 1100px;
+    height: 1200px;
 	width: 490px;
 	display: block;
 	background-color: rgb(211, 211, 211);
@@ -196,7 +196,7 @@ figcaption{
 	margin-top: 25px;
 	margin-left: 100px;
 	width: 300px;
-	height: 300px;
+	height: 320px;
 	padding: 5px;
 	
 }
